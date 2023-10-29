@@ -16,7 +16,7 @@ My name is Isaiah Weaver, I am a Software Developer who enjoys being creative. I
 ![react](./img/react.svg)
 ![docker](./img/docker.svg)
 ![tailwind](./img/tailwind.svg)
-<!-- Icon credit to: https://icons8.com/ -->
+<!-- Icon credit to: https://icons8.com/ and https://simpleicons.org/ -->
 
 ### AWS Certifications
 **February 22, 2022**  
