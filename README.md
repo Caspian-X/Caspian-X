@@ -8,12 +8,14 @@ My name is Isaiah Weaver, I am a Software Developer who enjoys being creative. I
 ![typescript](./img/typescript.svg)
 ![javascript](./img/javascript.svg)
 ![golang](./img/golang.svg)
+![java](./img/java.svg)
 ![python](./img/python.svg)
 ![bash](./img/bash.svg)
 ### Technologies
 ![aws](./img/aws.svg)
 ![git](./img/git.svg)
 ![react](./img/react.svg)
+![nextjs](./img/nextjs.svg)
 ![docker](./img/docker.svg)
 ![tailwind](./img/tailwind.svg)
 <!-- Icon credit to: https://icons8.com/ and https://simpleicons.org/ -->
